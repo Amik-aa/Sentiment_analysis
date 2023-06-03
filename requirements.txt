@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+Beautifulsoup
+re
+AutoTokenizer
+AutoModelForSequenceClassification
+torch
